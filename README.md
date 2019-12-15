@@ -24,12 +24,15 @@ Reference:
 
 <p align="center">
 Login View
+</br>
 <img src="https://github.com/Faizanf33/FAST-NET/blob/master/screenshots/loginView.PNG"/>
 </br>
 Sign Up View
+</br>
 <img src="https://github.com/Faizanf33/FAST-NET/blob/master/screenshots/signupView.PNG"/>
 </br>
 Chat View
+</br>
 <img src="https://github.com/Faizanf33/FAST-NET/blob/master/screenshots/ChatView.PNG"/>
 </p>
 
