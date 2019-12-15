@@ -22,6 +22,17 @@ Reference:
     [Windows Offline 64-bit](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=235727_2787e4a523244c269598db4e85c51e0c)
     #
 
+<p align="center">
+Login View
+<img src="https://github.com/Faizanf33/FAST-NET/screenshots/loginView.PNG"/>
+</br>
+Sign Up View
+<img src="https://github.com/Faizanf33/FAST-NET/screenshots/signupView.PNG"/>
+</br>
+Chat View
+<img src="http://i.imgur.com/Ckww6DW.png"/>
+</p>
+
 <h3> Features </h3>
 <ul>
   <li>Group Chat</li>
