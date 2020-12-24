@@ -38,20 +38,19 @@ Chat View
 
 <h3> Features </h3>
 <ul>
-  <li>Group Chat</li>
-  <li>Private Chat</li>
-  <li>Voice Message</li>
-  <li>Create Account</li>
-  <li>Basic Animation</li>
-  <li>MOTD on Connect</li>
-  <li>Connected Userlist</li>
+  <li><strike>Group/Private Chat</strike></li>
+  <li><strike>Voice Communication</strike></li>
+  <li>Document Communication</li>
+  <li><strike>Create User Account</strike></li>
+  <li><strike>MOTD on Connect</strike></li>
+  <li><strike>Connected Userlist</strike></li>
+  <li><strike>Basic Animation</strike></li>
   <li>Multi-Client Support</li>
-  <li>Database Integration</li>
-  <li>Voice Communication</li>
-  <li>Sounds & External CSS</li>
-  <li>Profile Picture (Upload)</li>
-  <li>Able to Set Status (Away / Busy / Online)</li>
-  <li><Strike>Server GUI</strike></li>
+  <li><strike>Database Connectivity/Integration</strike></li>
+  <li><strike>Sounds & External CSS</strike></li>
+  <li><strike>Profile Picture (Upload)</strike></li>
+  <li><strike>Able to Set Status (Away / Busy / Online)</strike></li>
+  <li>Server GUI</li>
 </ul>
 
 --------
