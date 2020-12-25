@@ -45,7 +45,7 @@ Chat View
   <li><strike>MOTD on Connect</strike></li>
   <li><strike>Connected Userlist</strike></li>
   <li><strike>Basic Animation</strike></li>
-  <li>Multi-Client Support</li>
+  <li><strike>Multi-Client Support</strike></li>
   <li><strike>Database Connectivity/Integration</strike></li>
   <li><strike>Sounds & External CSS</strike></li>
   <li><strike>Profile Picture (Upload)</strike></li>
